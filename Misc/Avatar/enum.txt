@@ -1,0 +1,7 @@
+The avatar is imprisoned in an ice jail. Can you help him awaken his powers?
+
+author: hweissi
+
+nc chall.glacierctf.com 13384
+
+50 solves

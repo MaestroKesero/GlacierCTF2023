@@ -1,0 +1,23 @@
+Deep in the glaciers, secret scientific laboratories of a secretive PMC are located. These laboratories are isolated from the rest of the humanity due to the nature of the experiments that are performed there. For infrastructure reasons, they developed a connectivity health check daemon which run in each basement of their complex.
+
+You've heard that the health check was developed by a scientist which disappeared short after the deployment of the daemons. The PMC assigned him the task of upgrading the daemons so they are able to recover from errors and corruptions. The scientist allegedly developed the 'glacier resilience' plug and play technology for the daemons.
+
+Years ago, you heard stories from other workers mentioning that the original developer was not aligned with the authoritative PMC actions and values. They suggested that it could be the reason why he 'disappeared'. Yesterday, one of the daemons went down due to a chain of errors.
+
+Now it's your turn to continue his job.
+
+PMC Soldier> "Scientist 0x814A, here is the connection to the server which hosts the daemon of our base. Here is also the access token, tied personally to you. You have readonly disk access as we don't trust you yet. The daemon is currently down, get familiar with the codebase and put it back online. Don't commit the same errors as the last one."
+
+author: ecomaikgolf
+
+telnet chall.glacierctf.com 13386
+
+Token
+
+eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mjg3LCJub25jZSI6IjQ5MGM2ZTVmN2EwM2I3YjczNTU4ZDlhZTExMjkxMTBiN2E1MmQ4ZmVjOGY4NGQ5N2NkMDBiZjhjNDA4MDNjZGUiLCJoYXNoIjoiMTQ0Yjg4ZjZkM2JjN2VlOGI0M2EzOGIwZDVlYWM3YTJlNTkyN2UwMmM2MzI1OTljZjhjYzIzZmIwM2I4NDc5MiIsImNoYWxsZW5nZSI6IjY4OGViZDhmZWRlNmQ4YzRlNTQ4OGNhNTg2YTNiYjcyYWIxYTJkN2ZjOTkzYzZmN2FjNWYwMTY3OTc5N2VhZjUiLCJ0aW1lZnJhbWUiOjM2MH0.MiDasdeuwdJgklPKxdZfymud3uGgYpQRaGeGALSjRLDE295r8wkim-7BSYIBVe_S6qDrddC14wGSgOgydB7CUqaZQdGT30Tjx3Ju34f-800xONYITBO5hLpzrk2pN-QdJ-eLo34GaAACnVAkkXYllvixs5PJBp2tD7O2ImdgHC54os5YI5zjyuQMRCp2fR_uBNiriE7SpDYUnfevtEKgQW0d4Qm6PM0Dsez-IEVpSpO_nAnr12u1u3UJxj0BdONdwZjyoHOR3ME4zc6_QE9FZjmvpIebxm8yIdb9zXq7FhMcQCsYLYQUKosG07kNMvHAOJFoWsj4Pa4NsjoRNekf840-z4juCVYuZPnmipX8FqQg3czq00a9f22ASzRK8C9jPhpXXaIxd6ovkGmD2Inr5Bduo9XiPCSdzASEYktH-pwaar7LwAyVQeq_hH1-ZB72pF9nHOWpqgGdei-7F8K5XRnw5u4pC2Cvk8uYrn1mK0g5mAEjka7KdADm1_RVoUKsrnT3uDo667jzUdKGi1TY309Y4Aaw79uQkFauiZL9R4XG1LQEVWiUts3jTL6ytTvnqeoDk9u3hxAi3rpFR1itz7KreA4Wsapcrl4GxYcHYNHvysiukS_e0NyE7AgGP1Ml1k3P1P0op8XBnuh0erXNEsdicc-T-vXp8zS5WAW3iwo
+
+This challenge requires a token for the connection.
+Please use this token when prompted and do not share it with others.
+
+
+21 solves
