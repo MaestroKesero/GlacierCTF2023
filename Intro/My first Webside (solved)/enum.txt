@@ -1,0 +1,7 @@
+I just created my first website! You can even do some calculations! Don't forget to check out my other projects!
+
+author: Chr0x6eOs
+
+https://myfirstsite.web.glacierctf.com
+
+170 solves
