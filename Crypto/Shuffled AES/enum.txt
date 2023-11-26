@@ -1,0 +1,31 @@
+I bet you can't break this super secure encryption based on AES.
+
+author: fanosta
+
+nc chall.glacierctf.com 13370
+
+solves 19
+
+
+❯ nc chall.glacierctf.com 13370
+Here's your flag: b541a28a0acebe8804d3a75f 74eba97f486617c49782e617cce7ad3163c38d4c1c7d43c3d5d5c179b2da884ae93c580fc99753188888ac709b1658acde93df92
+pt> da
+ct: ec13c3cafd053e51bb8089c0 6675
+pt> f
+ct: 71cbdbe4b296bce7b8f1625d c1
+pt> a
+ct: 3d6845d533f887347d6cd347 87
+pt> f
+act: 9485e34ec044f4db01092fda d6
+pt>example
+ct: 53c04024829cc3a8c5bc297c 6caa8d7610e7a7
+pt> 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+In cryptography class we learned about random numbers and algorithms to create pseudo random number generators. I think I build a solid cipher that nobody can break. This is why I call it SecureLongCiphertextGenerator, SLCG for short
+
+87 solves
