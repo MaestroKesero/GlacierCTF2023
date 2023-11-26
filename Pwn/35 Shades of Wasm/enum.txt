@@ -1,0 +1,7 @@
+My friend hosts this wasm runtime that uses an outdated version of wasmtime. We pwned it and left a flag there. Can you get it?
+
+author: PaideiaDilemma
+
+nc chall.glacierctf.com 13389
+
+4 solves

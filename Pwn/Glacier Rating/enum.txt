@@ -1,0 +1,7 @@
+I love C++. No malloc and free, so I can't mess up my heap management, right?
+
+author: n4nika
+
+nc chall.glacierctf.com 13373
+
+27 solves

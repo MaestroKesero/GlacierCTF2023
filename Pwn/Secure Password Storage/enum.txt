@@ -1,0 +1,7 @@
+I built a super secure application to hash and store your passwords, surely there are no flaws since i write insanely good code. Or so.
+
+author: n4nika
+
+nc chall.glacierctf.com 13390
+
+2 solves
