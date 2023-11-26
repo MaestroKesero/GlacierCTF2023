@@ -2,7 +2,7 @@
 
 Apartado para subir todos los ejercicios de cada categoria de GlacierCTF2023
 
-![Logo CriptoHack](https://github.com/MaestroKesero/CryptoHack/blob/main/CryptoHack.png)
+![Logo CriptoHack](https://github.com/MaestroKesero/GlalcierCTF2023/blob/main/Wallpaper.png)
 
 ## Rubrica
 
