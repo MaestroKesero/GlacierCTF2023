@@ -1,4 +1,4 @@
-# GlalcierCTF2023
+# GlacierCTF2023
 
 Apartado para subir todos los ejercicios de cada categoria de GlacierCTF2023
 
