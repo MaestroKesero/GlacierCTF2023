@@ -6,5 +6,5 @@ Apartado para subir todos los ejercicios de cada categoria de GlacierCTF2023
 
 ## Rubrica
 
-- name (solved) -> Ejercicios Resueltos por el equipo.
-- name (resolved) -> Ejercicios resueltos por mi y explicados.
+- name (solved) -> Ejercicios Resueltos por el equipo (no hechos).
+- name (resolved) -> Ejercicios resueltos por mi hechos.
