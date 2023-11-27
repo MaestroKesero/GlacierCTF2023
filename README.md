@@ -21,5 +21,5 @@ Apartado para subir todos los ejercicios de cada categoria de GlacierCTF2023
 - https://ctftime.org/writeup/38298 --> Glacier Military Daemon.
 - 
 
-- https://ctfwriteups.org/ctfs/65637f26be9627253f03daa2/edit --> Copmilacion de cada ejercicio resuelto.
+- https://ctfwriteups.org/ctfs/65637f26be9627253f03daa2/edit --> Compilacion de cada ejercicio resuelto.
 
