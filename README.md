@@ -19,7 +19,6 @@ Apartado para subir todos los ejercicios de cada categoria de GlacierCTF2023
 - https://hackmd.io/@Be2TrxAzSWeaqXGgoOwd2g/rkr4ZzWHT --> writeups for Skilift, Glacier Exchange, Peak, Missing Bits, ARISAI and a (partial?) solution to Avatar.
 - https://gist.github.com/adrian154/40df5ac94ed27a5e7b0b1e040863b50c --> Funchannel.
 - https://ctftime.org/writeup/38298 --> Glacier Military Daemon.
-- 
+  
 
 - https://ctfwriteups.org/ctfs/65637f26be9627253f03daa2/edit --> Compilacion de cada ejercicio resuelto.
-
